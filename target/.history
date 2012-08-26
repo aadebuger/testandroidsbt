@@ -1,0 +1,24 @@
+android:package-debug
+android:emulator-start 
+android:emulator-start myhuawei
+android:start-emulator
+android:install-emulator
+last testandroidsbt/android:install-emulator for the full output.
+android:start-emulator
+android:list-devices
+android:emulator-stop
+android:emulator-start myhuawei
+android:start-emulator
+android:emulator-start 
+android:emulator-start htc1
+android:start-emulator
+android:list-devices
+android:start-emulator
+android:emulator-start mytest233
+android:package-debug
+android:start-emulator
+android:package-debug
+android:start-emulator
+android:package-debug
+android:start-emulator
+clean
