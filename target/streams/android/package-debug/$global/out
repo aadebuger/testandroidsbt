@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mPackaging /Users/aadebuger/Documents/newcolor2012/testandroidsbt/target/testandroidsbt-0.1.apk[0m
+[0m[[0mdebug[0m] [0mUsing keystore: /Users/aadebuger/.android/debug.keystore[0m
+[0m[[0mdebug[0m] [0mPackaging testandroidsbt-0.1.apk[0m
+[0m[[0mdebug[0m] [0m/Users/aadebuger/Documents/newcolor2012/testandroidsbt/target/resources.apk:[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m/Users/aadebuger/Documents/newcolor2012/testandroidsbt/target/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0m/Users/aadebuger/Documents/newcolor2012/testandroidsbt/target/classes.min.jar:[0m
+[0m[[0mdebug[0m] [0m=> library.properties[0m

@@ -1,0 +1,2 @@
+[0m[[0mdebug[0m] [0m/Users/aadebuger/Documents/android-sdk-mac_x86/platform-tools/adb -e shell am start -a android.intent.action.MAIN -n my.android.project/.MainActivity[0m
+[0m[[0minfo[0m] [0mStarting: Intent { act=android.intent.action.MAIN cmp=my.android.project/.MainActivity }[0m

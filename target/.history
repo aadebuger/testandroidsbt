@@ -15,10 +15,28 @@ android:start-emulator
 android:list-devices
 android:start-emulator
 android:emulator-start mytest233
-android:package-debug
-android:start-emulator
-android:package-debug
-android:start-emulator
-android:package-debug
-android:start-emulator
+android:start
+android:help
+android
+android:
+android:run
+android:start
+android:devices
+android:list-devices
+android:ddms
+android:install-device
+android:
+android:start-device
+android:version-code
+android:version-name
+compile
 clean
+compile
+android:package-debug
+android:start-emulator
+android:list-devices
+android:emulator-start mytest233
+android:
+android:devices
+android:
+android:list-devices

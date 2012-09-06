@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0m/Users/aadebuger/Documents/android-sdk-mac_x86/platform-tools/adb -e install -r  /Users/aadebuger/Documents/newcolor2012/testandroidsbt/target/testandroidsbt-0.1.apk[0m
+[0m[[0minfo[0m] [0m	pkg: /data/local/tmp/testandroidsbt-0.1.apk[0m
+[0m[[0minfo[0m] [0mSuccess[0m
+[0m[[0minfo[0m] [0m2344 KB/s (203378 bytes in 0.084s)[0m
